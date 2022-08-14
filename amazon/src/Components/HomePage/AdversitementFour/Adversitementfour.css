@@ -1,0 +1,23 @@
+.AdversetimentFour{
+    height: 380px;
+    width: 350px;
+    background: white;
+    margin: 10px;
+}
+.AdversetimentFour_body{
+    padding-left: 15px;
+}
+.AdversetimentFour_header{
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px;
+}
+.AdversetimentFour_footer{
+    padding: 15px;
+}
+.ad_four_image{
+    width: 164px;
+    height: 120px;
+    margin: 0.5px;
+}
