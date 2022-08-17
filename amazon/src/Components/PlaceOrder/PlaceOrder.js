@@ -7,6 +7,7 @@ import Paper from '@mui/material/Paper';
 import { List } from '@mui/material';
 import { CartContext } from '../CartContext';
 function PlaceOrder(props) {
+    
     const {item,size,increment} = useContext(CartContext);
     const [productDetails,setProductDetails] = useState([]);
     let { id } = useParams();
